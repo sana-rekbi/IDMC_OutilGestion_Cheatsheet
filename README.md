@@ -22,3 +22,8 @@ This is a simple example of a document written in LaTeX.
 End of the example.
 
 \end{document}
+
+## Steps to create a LaTeX file
+- Use `\documentclass{article}` to define the document class.
+- Add metadata such as the title, author, and date.
+- Insert content between the `\begin{document}` and `\end{document}` tags.
