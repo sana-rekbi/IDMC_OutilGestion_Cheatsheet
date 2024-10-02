@@ -1,6 +1,6 @@
 Team Leader: Sana REKBI
 
-Junior 1:
+Junior 1: Pedro Mhanna
 
 Junior 2:
 
